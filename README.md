@@ -1,2 +1,2 @@
-# teste
-alguma coisa para teste
+# Atividade 7
+Codigo para Calculo de IMC
